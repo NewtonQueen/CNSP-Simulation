@@ -1,0 +1,6 @@
+#filter all not 1
+.gitignore
+
+*.suo
+[Bb]in/
+[Oo]bj/
